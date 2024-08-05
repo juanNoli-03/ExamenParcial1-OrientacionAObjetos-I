@@ -10,7 +10,7 @@
 
 **1- Diagrama de Clases:**
 
-![image](https://github.com/user-attachments/assets/13230f09-c0b9-442f-acbc-92431c84a278)
+![image](https://github.com/user-attachments/assets/a62ac696-214c-4e11-914a-c098b084e044)
 
 **2- Consigna:**
 
